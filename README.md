@@ -3,9 +3,8 @@
 
 Transform any business data into actionable intelligence with AI-powered analysis
 
-Show Image
-Show Image
-Show Image
+
+<img width="1425" height="775" alt="Screenshot 2025-11-07 at 12 20 45 PM" src="https://github.com/user-attachments/assets/2608e855-dac5-4a0f-93a3-27b95907d31e" />
 
 📖 Overview
 The Universal AI Insights Platform is an intelligent business analytics tool that automatically analyzes any dataset you upload and generates contextual insights, visualizations, and recommendations—all powered by advanced AI. Unlike traditional analytics tools that require manual configuration, this platform detects your business domain (marketing, finance, HR, SaaS, sales, or e-commerce), identifies key metrics, and provides instant analysis without any setup.
